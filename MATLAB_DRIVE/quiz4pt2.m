@@ -1,0 +1,1 @@
+[h,p,ci,stats] = vartest(x,25)
